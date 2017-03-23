@@ -2,7 +2,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/SignetStudios/slackbot-uno/badge.svg?branch=master)](https://coveralls.io/github/SignetStudios/slackbot-uno?branch=master)
 
 #Slackbot-Uno
-Bringing Uno to Slack.
+Bringing Uno to Slack. :)
 
 Slackbot-Uno was inspired by the many Uno bots that tend to be found on various IRC channels around the internet. Not having found much to bring such a bot to Slack (and having a desire to better understand both the Slack API and Node), one was created.
 
